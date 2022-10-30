@@ -4,7 +4,7 @@
 .Rhistory
 .RData
 .DS_Store
-wordpress/*
+# wordpress/*
 !wordpress/.keep
 mysql/*
 !mysql/.keep

@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "location": "London",
+      "abbr": "https://svgshare.com/i/GP4.svg",
+      "time": "07:15 pm",
+      "temp": 11
+    },
+    {
+      "id": 2,
+      "location": "New York",
+      "abbr": "https://svgshare.com/i/Hoc.svg",
+      "time": "12:10 pm",
+      "temp": 22
+    },
+    {
+      "id": 3,
+      "location": "Los Angeles",
+      "abbr": "https://svgshare.com/i/GPh.svg",
+      "time": "15:15 pm",
+      "temp": 17
+    },
+    {
+      "id": 4,
+      "location": "Sydney",
+      "abbr": "https://svgshare.com/i/GNQ.svg",
+      "time": "19:35 pm",
+      "temp": 35
+    },
+    {
+      "id": 5,
+      "location": "Berlin",
+      "abbr": "https://svgshare.com/i/GMu.svg",
+      "time": "03:15 pm",
+      "temp": 5
+    }
+  ]

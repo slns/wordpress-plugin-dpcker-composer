@@ -1,6 +1,16 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+### Get all Posts
+```
+http://localhost/wp-json/wp/v2/posts
+```
+
+### Get all Pages
+```
+http://localhost/wp-json/wp/v2/pages
+```
+
 # Deploy Wordpress on Localhost and in Production using Docker Compose
 
 Related blog post:
